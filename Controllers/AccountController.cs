@@ -20,6 +20,7 @@ namespace TestingProject.Controllers
         public ActionResult SignUp()
         {
             return View();
+            //test
         }
 
         [HttpPost]
